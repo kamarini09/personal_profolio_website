@@ -151,7 +151,7 @@ section {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-template-rows: repeat(5, 1fr);
-  background-image: url(../images/aboutmemobile2.svg);
+  background-image: url(/images/aboutmemobile2.svg);
   background-repeat: no-repeat;
   background-size: cover;
   grid-gap: 1em;
@@ -162,7 +162,7 @@ section {
 }
 
 .one {
-  background-image: url(../images/one.png);
+  background-image: url(/images/one.png);
   background-repeat: no-repeat;
   background-size: contain;
   width: 90%;
@@ -170,7 +170,7 @@ section {
   margin-right: 5%;
 }
 .two {
-  background-image: url(../images/two.png);
+  background-image: url(/images/two.png);
   background-repeat: no-repeat;
   background-size: contain;
   width: 90%;
@@ -178,7 +178,7 @@ section {
   margin-right: 5%;
 }
 .three {
-  background-image: url(../images/three.png);
+  background-image: url(/images/three.png);
   background-repeat: no-repeat;
   background-size: contain;
   width: 90%;
@@ -187,7 +187,7 @@ section {
   padding-left: 3%;
 }
 .four {
-  background-image: url(../images/four.png);
+  background-image: url(/images/four.png);
   background-repeat: no-repeat;
   background-size: contain;
   width: 90%;
@@ -195,7 +195,7 @@ section {
   margin-right: 5%;
 }
 .five {
-  background-image: url(../images/five.png);
+  background-image: url(/images/five.png);
   background-repeat: no-repeat;
   background-size: contain;
   width: 90%;
@@ -203,7 +203,7 @@ section {
   margin-right: 5%;
 }
 .six {
-  background-image: url(../images/six.png);
+  background-image: url(/images/six.png);
   background-repeat: no-repeat;
   background-size: contain;
   width: 90%;
@@ -211,7 +211,7 @@ section {
   margin-right: 5%;
 }
 .seven {
-  background-image: url(../images/seven.png);
+  background-image: url(/images/seven.png);
   background-repeat: no-repeat;
   background-size: contain;
   width: 90%;
@@ -219,7 +219,7 @@ section {
   margin-right: 5%;
 }
 .eight {
-  background-image: url(../images/eight.png);
+  background-image: url(/images/eight.png);
   background-repeat: no-repeat;
   background-size: contain;
   width: 90%;
@@ -227,7 +227,7 @@ section {
   margin-right: 5%;
 }
 .nine {
-  background-image: url(../images/nine.png);
+  background-image: url(/images/nine.png);
   background-repeat: no-repeat;
   background-size: contain;
   width: 90%;
@@ -235,7 +235,7 @@ section {
   margin-right: 5%;
 }
 .ten {
-  background-image: url(../images/ten.png);
+  background-image: url(/images/ten.png);
   background-repeat: no-repeat;
   background-size: contain;
   width: 90%;
@@ -312,7 +312,7 @@ footer {
     grid-template-rows: repeat(2, 1fr);
     height: 150vh;
     width: 100vw;
-    background-image: url(../images/aboutmemobile1.svg);
+    background-image: url(/images/aboutmemobile1.svg);
     background-repeat: no-repeat;
     background-size: contain;
     /* margin-top: 15px; */
@@ -322,7 +322,7 @@ footer {
 
   .photo {
     grid-row: 1/2;
-    background-image: url(../images/me.png);
+    background-image: url(/images/me.png);
     background-repeat: no-repeat;
     background-size: contain;
     width: 50%;
@@ -351,7 +351,7 @@ footer {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
     grid-template-rows: repeat(2, 1fr);
-    background-image: url(../images/aboutme2.svg);
+    background-image: url(/images/aboutme2.svg);
     background-size: contain;
     background-repeat: no-repeat;
     margin-top: 10em;
@@ -363,7 +363,7 @@ footer {
   }
 
   .one {
-    background-image: url(../images/one.png);
+    background-image: url(/images/one.png);
     background-repeat: no-repeat;
     background-size: contain;
     width: 100%;
@@ -374,7 +374,7 @@ footer {
     transition: 0.5s;
   }
   .two {
-    background-image: url(../images/three.png);
+    background-image: url(/images/three.png);
     background-repeat: no-repeat;
     background-size: contain;
     width: 100%;
@@ -384,7 +384,7 @@ footer {
     transition: 0.5s;
   }
   .three {
-    background-image: url(../images/four.png);
+    background-image: url(/images/four.png);
     background-repeat: no-repeat;
     background-size: contain;
     width: 100%;
@@ -394,7 +394,7 @@ footer {
     transition: 0.5s;
   }
   .four {
-    background-image: url(../images/six.png);
+    background-image: url(/images/six.png);
     background-repeat: no-repeat;
     background-size: contain;
     width: 100%;
@@ -404,7 +404,7 @@ footer {
     transition: 0.5s;
   }
   .five {
-    background-image: url(../images/eight.png);
+    background-image: url(/images/eight.png);
     background-repeat: no-repeat;
     background-size: contain;
     width: 100%;
@@ -414,7 +414,7 @@ footer {
     transition: 0.5s;
   }
   .six {
-    background-image: url(../images/two.png);
+    background-image: url(/images/two.png);
     background-repeat: no-repeat;
     background-size: contain;
     width: 100%;
@@ -424,7 +424,7 @@ footer {
     transition: 0.5s;
   }
   .seven {
-    background-image: url(../images/five.png);
+    background-image: url(/images/five.png);
     background-repeat: no-repeat;
     background-size: contain;
     width: 100%;
@@ -434,7 +434,7 @@ footer {
     transition: 0.5s;
   }
   .eight {
-    background-image: url(../images/seven.png);
+    background-image: url(/images/seven.png);
     background-repeat: no-repeat;
     background-size: contain;
     width: 100%;
@@ -444,7 +444,7 @@ footer {
     transition: 0.5s;
   }
   .nine {
-    background-image: url(../images/nine.png);
+    background-image: url(/images/nine.png);
     background-repeat: no-repeat;
     background-size: contain;
     width: 100%;
@@ -454,7 +454,7 @@ footer {
     transition: 0.5s;
   }
   .ten {
-    background-image: url(../images/ten.png);
+    background-image: url(/images/ten.png);
     background-repeat: no-repeat;
     background-size: contain;
     width: 100%;
